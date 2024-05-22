@@ -1,0 +1,17 @@
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Data\bin\Debug\net6.0\Blogger.Data.deps.json
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Data\bin\Debug\net6.0\Blogger.Data.dll
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Data\bin\Debug\net6.0\Blogger.Data.pdb
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Data\bin\Debug\net6.0\Blogger.Core.dll
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Data\bin\Debug\net6.0\Blogger.Core.pdb
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Data\obj\Debug\net6.0\Blogger.Data.csproj.AssemblyReference.cache
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Data\obj\Debug\net6.0\Blogger.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Data\obj\Debug\net6.0\Blogger.Data.AssemblyInfoInputs.cache
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Data\obj\Debug\net6.0\Blogger.Data.AssemblyInfo.cs
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Data\obj\Debug\net6.0\Blogger.Data.csproj.CoreCompileInputs.cache
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Data\obj\Debug\net6.0\Blogger.Data.csproj.CopyComplete
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Data\obj\Debug\net6.0\Blogger.Data.dll
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Data\obj\Debug\net6.0\refint\Blogger.Data.dll
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Data\obj\Debug\net6.0\Blogger.Data.pdb
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Data\obj\Debug\net6.0\ref\Blogger.Data.dll
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Data\bin\Debug\net6.0\Blogger.Data.runtimeconfig.json
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Data\obj\Debug\net6.0\Blogger.Data.genruntimeconfig.cache

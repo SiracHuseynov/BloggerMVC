@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rECZeBVfqDyMbOYnZENN9XCSZsZELSKENA16No1riP5kXzZz61al3krH1IoAPCCCLnr9sQhim+rMV//T3usIRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CA.R215.14\\Desktop\\SiracHuseynov\\Blogger\\Blogger.Core\\Blogger.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CA.R215.14\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\CA.R215.14\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\CA.R215.14\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\CA.R215.14\\.nuget\\packages\\x.pagedlist\\9.1.2\\x.pagedlist.9.1.2.nupkg.sha512",
+    "C:\\Users\\CA.R215.14\\.nuget\\packages\\x.pagedlist.mvc.core\\9.1.2\\x.pagedlist.mvc.core.9.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Core\bin\Debug\net6.0\Blogger.Core.deps.json
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Core\bin\Debug\net6.0\Blogger.Core.dll
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Core\bin\Debug\net6.0\Blogger.Core.pdb
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Core\obj\Debug\net6.0\Blogger.Core.csproj.AssemblyReference.cache
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Core\obj\Debug\net6.0\Blogger.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Core\obj\Debug\net6.0\Blogger.Core.AssemblyInfoInputs.cache
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Core\obj\Debug\net6.0\Blogger.Core.AssemblyInfo.cs
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Core\obj\Debug\net6.0\Blogger.Core.csproj.CoreCompileInputs.cache
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Core\obj\Debug\net6.0\Blogger.Core.dll
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Core\obj\Debug\net6.0\refint\Blogger.Core.dll
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Core\obj\Debug\net6.0\Blogger.Core.pdb
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Core\obj\Debug\net6.0\ref\Blogger.Core.dll

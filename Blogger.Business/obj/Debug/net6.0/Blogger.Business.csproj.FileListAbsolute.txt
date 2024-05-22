@@ -1,0 +1,17 @@
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Business\bin\Debug\net6.0\Blogger.Business.deps.json
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Business\bin\Debug\net6.0\Blogger.Business.dll
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Business\bin\Debug\net6.0\Blogger.Business.pdb
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Business\bin\Debug\net6.0\Blogger.Core.dll
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Business\bin\Debug\net6.0\Blogger.Data.dll
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Business\bin\Debug\net6.0\Blogger.Data.pdb
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Business\bin\Debug\net6.0\Blogger.Core.pdb
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Business\obj\Debug\net6.0\Blogger.Business.csproj.AssemblyReference.cache
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Business\obj\Debug\net6.0\Blogger.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Business\obj\Debug\net6.0\Blogger.Business.AssemblyInfoInputs.cache
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Business\obj\Debug\net6.0\Blogger.Business.AssemblyInfo.cs
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Business\obj\Debug\net6.0\Blogger.Business.csproj.CoreCompileInputs.cache
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Business\obj\Debug\net6.0\Blogger.Business.csproj.CopyComplete
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Business\obj\Debug\net6.0\Blogger.Business.dll
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Business\obj\Debug\net6.0\refint\Blogger.Business.dll
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Business\obj\Debug\net6.0\Blogger.Business.pdb
+C:\Users\CA.R215.14\Desktop\SiracHuseynov\Blogger\Blogger.Business\obj\Debug\net6.0\ref\Blogger.Business.dll
